@@ -1,49 +1,39 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode solutions repository! 🚀
+This repository contains my solutions to **LeetCode** problems, implemented in **Python** and organized by topic. It reflects my ongoing practice in **Data Structures & Algorithms (DSA)** and my commitment to improving problem-solving skills.
 
-This repository contains my solutions to LeetCode problems written in **Python**. The solutions are organized by topic to make learning and revision easier.
+## Tech Stack
 
-## 📂 Folder Structure
+* Python 3
 
-```
-leetcode-solutions/
-│
-├── Math/
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Two_Pointers/
-├── Sliding_Window/
-├── Binary_Search/
-├── Stack/
-├── Queue/
-├── Linked_List/
-├── Trees/
-├── Graphs/
-├── Heap/
-├── Greedy/
-├── Backtracking/
-├── Dynamic_Programming/
-└── README.md
-```
+## Topics Covered
 
-## 🎯 Goals
+* Math
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Stack & Queue
+* Linked List
+* Trees
+* Graphs
+* Heap
+* Greedy
+* Backtracking
+* Dynamic Programming
 
-- Solve LeetCode problems consistently.
-- Improve problem-solving skills.
-- Master Data Structures & Algorithms.
-- Prepare for software engineering interviews.
+## Naming Convention
 
-## 💻 Language
+`ProblemNumber_ProblemName.py`
 
-- Python 3
+**Examples**
 
-## 📌 Notes
+* `7_Reverse_Integer.py`
+* `9_Palindrome_Number.py`
+* `125_Valid_Palindrome.py`
 
-- Solutions are organized by topic.
-- File names follow the format:
-  - `ProblemNumber_ProblemName.cpp`
-- Each solution aims to be clean and optimized.
+---
 
-Happy Coding! 🚀
+*Consistent practice • Clean code • Continuous learning*
