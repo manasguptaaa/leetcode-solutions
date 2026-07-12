@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! 🚀
 
-This repository contains my solutions to LeetCode problems written in **C++**. The solutions are organized by topic to make learning and revision easier.
+This repository contains my solutions to LeetCode problems written in **Python**. The solutions are organized by topic to make learning and revision easier.
 
 ## 📂 Folder Structure
 
